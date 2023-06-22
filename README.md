@@ -1,4 +1,4 @@
-Header 
+![Header](https://github.com/highlearner/highlearner/blob/main/assets/header.png)
 
 About me 
 
