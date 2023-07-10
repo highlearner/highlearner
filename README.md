@@ -17,12 +17,11 @@
 ![Link to my CV]
 
 ## Language & Tools
-![PostgreSQL](https://img.shields.io/badge/PostreSQL-090909?style-for-the-badge&logo=PostgreSQL&logoColor)
+![SQL](https://img.shields.io/badge/SQL-090909?style-for-the-badge&logo=none&logoColor)
 ![Git](https://img.shields.io/badge/Git-090909?style-for-the-badge&logo=Git&logoColor)
 ![GitHub](https://img.shields.io/badge/GitHub-090909?style-for-the-badge&logo=GitHub&logoColor)
 ![GitKraken](https://img.shields.io/badge/GitKraken-090909?style-for-the-badge&logo=GitKraken&logoColor)
 ![HTML&CSS](https://img.shields.io/badge/HTML&CSS-090909?style-for-the-badge&logo=html5&logoColor)
-![CSS](https://img.shields.io/badge/CSS-090909?style-for-the-badge&logo=CSS3&logoColor)
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style-for-the-badge&logo=googlechrome&logoColor) 
 ![JMeter](https://img.shields.io/badge/JMeter-090909?style-for-the-badge&logo=apachejmeter&logoColor)
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-090909?style-for-the-badge&logo=androidstudio&logoColor)
@@ -44,7 +43,7 @@
 - [Checklists](https://github.com/highlearner/checklists)
 - [Test-Suites & Test-Cases]
 - [Bug-Reports](https://github.com/highlearner/Bugs-Mantis-BT)
-- [SQL-queries]
+- [SQL-queries](https://github.com/highlearner/SQL-queries)
 - [Postman Collections]
 
 ## Certificates
