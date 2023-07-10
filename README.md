@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/Git-090909?style-for-the-badge&logo=Git&logoColor)
 ![GitHub](https://img.shields.io/badge/GitHub-090909?style-for-the-badge&logo=GitHub&logoColor)
 ![GitKraken](https://img.shields.io/badge/GitKraken-090909?style-for-the-badge&logo=GitKraken&logoColor)
-![HTML](https://img.shields.io/badge/HTML-090909?style-for-the-badge&logo=html5&logoColor)
+![HTML&CSS](https://img.shields.io/badge/HTML&CSS-090909?style-for-the-badge&logo=html5&logoColor)
 ![CSS](https://img.shields.io/badge/CSS-090909?style-for-the-badge&logo=CSS3&logoColor)
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style-for-the-badge&logo=googlechrome&logoColor) 
 ![JMeter](https://img.shields.io/badge/JMeter-090909?style-for-the-badge&logo=apachejmeter&logoColor)
@@ -31,6 +31,7 @@
 ![XML](https://img.shields.io/badge/XML-090909?style-for-the-badge&logo=xml&logoColor)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-090909?style-for-the-badge&logo=virtualbox&logoColor)
 ![Jira](https://img.shields.io/badge/Jira-090909?style-for-the-badge&logo=jira&logoColor=136be1)
+![AzureDevOps](https://img.shields.io/badge/AzureDevOps-090909?style-for-the-badge&logo=azuredevops&logoColor=)
 ![MantisBT](https://img.shields.io/badge/MantisBT-090909?style-for-the-badge&logo=MantisBT&logoColor) 
 ![TestRail](https://img.shields.io/badge/TestRail-090909?style-for-the-badge&logo=testrail&logoColor)
 ![TestLink](https://img.shields.io/badge/TestLink-090909?style-for-the-badge&logo=testlink&logoColor)
@@ -40,7 +41,7 @@
 
 
 ## Testing Documentation 
-- [Checklists]
+- [Checklists](https://github.com/highlearner/checklists)
 - [Test-Suites & Test-Cases]
 - [Bug-Reports](https://github.com/highlearner/Bugs-Mantis-BT)
 - [SQL-queries]
