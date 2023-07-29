@@ -17,7 +17,7 @@
 ![Link to my CV]
 
 ## Language & Tools
-![SQL](https://img.shields.io/badge/SQL-090909?style-for-the-badge&logo=none&logoColor)
+[![SQL](https://img.shields.io/badge/SQL-090909?style-for-the-badge&logo=none&logoColor)](https://github.com/highlearner/SQL-queries)
 ![Git](https://img.shields.io/badge/Git-090909?style-for-the-badge&logo=Git&logoColor)
 ![GitHub](https://img.shields.io/badge/GitHub-090909?style-for-the-badge&logo=GitHub&logoColor)
 ![GitKraken](https://img.shields.io/badge/GitKraken-090909?style-for-the-badge&logo=GitKraken&logoColor)
