@@ -44,7 +44,7 @@
 - [Test-Suites & Test-Cases]
 - [Bug-Reports](https://github.com/highlearner/Bugs-Mantis-BT)
 - [SQL-queries](https://github.com/highlearner/SQL-queries)
-- [Postman Collections]
+- [Postman Collections](https://github.com/highlearner/Postman)
 
 ## Certificates
 [![QA](https://img.shields.io/badge/QA._«The_Fundamentals_of_Software_Testing»-090909?style-for-the-badge&logo=QA&logoColor)](https://drive.google.com/file/d/1WPAo38MgQUfjCqFPOkEo4IwqamWs3HMV/view?usp=drive_link)
