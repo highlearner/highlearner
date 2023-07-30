@@ -18,7 +18,7 @@
 
 ## Language & Tools
 [![SQL](https://img.shields.io/badge/SQL-090909?style-for-the-badge&logo=none&logoColor)](https://github.com/highlearner/SQL-queries)
-![Git](https://img.shields.io/badge/Git-090909?style-for-the-badge&logo=Git&logoColor)
+[![Git](https://img.shields.io/badge/Git-090909?style-for-the-badge&logo=Git&logoColor)](https://github.com/highlearner/Git)
 ![GitHub](https://img.shields.io/badge/GitHub-090909?style-for-the-badge&logo=GitHub&logoColor)
 ![GitKraken](https://img.shields.io/badge/GitKraken-090909?style-for-the-badge&logo=GitKraken&logoColor)
 ![HTML&CSS](https://img.shields.io/badge/HTML&CSS-090909?style-for-the-badge&logo=html5&logoColor)
