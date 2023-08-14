@@ -41,7 +41,7 @@
 
 ## Testing Documentation 
 - [Checklists](https://github.com/highlearner/checklists)
-- [Test-Suites & Test-Cases]
+- [Test-Suites & Test-Cases](https://github.com/highlearner/test-suites-test-cases)
 - [Bug-Reports](https://github.com/highlearner/Bugs-Mantis-BT)
 - [SQL-queries](https://github.com/highlearner/SQL-queries)
 - [Postman Collections](https://github.com/highlearner/Postman)
