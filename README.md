@@ -35,7 +35,7 @@
 ![TestRail](https://img.shields.io/badge/TestRail-090909?style-for-the-badge&logo=testrail&logoColor)
 ![TestLink](https://img.shields.io/badge/TestLink-090909?style-for-the-badge&logo=testlink&logoColor)
 ![Fiddler](https://img.shields.io/badge/Fiddler-090909?style-for-the-badge&logo=fiddlerl&logoColor)
-![CharlesProxy](https://img.shields.io/badge/CharlesProxy-090909?style-for-the-badge&logo=charlesproxy&logoColor)
+[![CharlesProxy](https://img.shields.io/badge/CharlesProxy-090909?style-for-the-badge&logo=charlesproxy&logoColor)](https://github.com/highlearner/charles-proxy)
 ![iMazing](https://img.shields.io/badge/iMazing-090909?style-for-the-badge&logo=imazing&logoColor)
 
 
