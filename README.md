@@ -34,7 +34,6 @@
 [![MantisBT](https://img.shields.io/badge/MantisBT-090909?style-for-the-badge&logo=MantisBT&logoColor)](https://github.com/highlearner/Bugs-Mantis-BT)
 ![TestRail](https://img.shields.io/badge/TestRail-090909?style-for-the-badge&logo=testrail&logoColor)
 ![TestLink](https://img.shields.io/badge/TestLink-090909?style-for-the-badge&logo=testlink&logoColor)
-![Fiddler](https://img.shields.io/badge/Fiddler-090909?style-for-the-badge&logo=fiddlerl&logoColor)
 [![CharlesProxy](https://img.shields.io/badge/CharlesProxy-090909?style-for-the-badge&logo=charlesproxy&logoColor)](https://github.com/highlearner/charles-proxy)
 [![Logs](https://img.shields.io/badge/Logs-090909?style-for-the-badge&logo=imazing&logoColor)](https://github.com/highlearner/logs)
 
