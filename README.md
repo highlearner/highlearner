@@ -32,7 +32,7 @@
 [![Jira](https://img.shields.io/badge/Jira-090909?style-for-the-badge&logo=jira&logoColor=136be1)](https://github.com/highlearner/jira)
 [![AzureDevOps](https://img.shields.io/badge/AzureDevOps-090909?style-for-the-badge&logo=azuredevops&logoColor=)](https://github.com/highlearner/azure-devops)
 [![MantisBT](https://img.shields.io/badge/MantisBT-090909?style-for-the-badge&logo=MantisBT&logoColor)](https://github.com/highlearner/Bugs-Mantis-BT)
-![TestRail](https://img.shields.io/badge/TestRail-090909?style-for-the-badge&logo=testrail&logoColor)
+[![TestRail](https://img.shields.io/badge/TestRail-090909?style-for-the-badge&logo=testrail&logoColor)](https://github.com/highlearner/testrail)
 [![TestLink](https://img.shields.io/badge/TestLink-090909?style-for-the-badge&logo=testlink&logoColor)](https://github.com/highlearner/testlink)
 [![CharlesProxy](https://img.shields.io/badge/CharlesProxy-090909?style-for-the-badge&logo=charlesproxy&logoColor)](https://github.com/highlearner/charles-proxy)
 [![Logs](https://img.shields.io/badge/Logs-090909?style-for-the-badge&logo=imazing&logoColor)](https://github.com/highlearner/logs)
