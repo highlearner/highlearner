@@ -43,11 +43,6 @@
 ## Databases
 - [SQL](https://github.com/highlearner/SQL-queries)
 
-## Emulators/Simulators
-- [VirtualBox](https://github.com/highlearner/virtualbox)
-- [BrowserStack](#)
-- [Logs](https://github.com/highlearner/logs)
-
 ## Project Management & Collaboration
 - [Confluence](https://github.com/highlearner/confluence)
 - [Jira](https://github.com/highlearner/jira)
